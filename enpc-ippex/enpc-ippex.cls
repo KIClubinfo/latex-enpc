@@ -20,7 +20,6 @@
 
 \RequirePackage{float}
 \RequirePackage{empheq}
-\RequirePackage{siunitx}
 
 \makeatletter
 \newenvironment{chapquote}[2][2em]
@@ -36,8 +35,6 @@
 \RequirePackage{hyperref}
 \RequirePackage{url}
 
-% \setlength{\voffset}{-0.75in}
-% \setlength{\headsep}{5pt}
 \RequirePackage{mathtools}
 
 \setcounter{tocdepth}{1}
