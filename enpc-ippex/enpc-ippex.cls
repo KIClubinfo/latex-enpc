@@ -1,4 +1,4 @@
-\ProvidesClass{ki}[05/12/2016 KI Clubinfo des Ponts]
+\ProvidesClass{enpc-ippex}[05/12/2016 KI Clubinfo des Ponts]
 \LoadClass[11pt]{article}
 
 \newtoks\firstname
